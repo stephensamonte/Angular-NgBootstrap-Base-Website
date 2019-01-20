@@ -12,13 +12,18 @@ Website front end for research projects. This will display data recieved via htt
 
 # Journal: 
 - 2019.01.20 Created Angular Project using `ng new` and added `ng bootstrap` module.
-- 
+-  
 
 # References: 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 - [Using Bootstrap with Angular Medium Blog](https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a) Scroll down to the section about using "Using Ng-Bootstrap"
 - [ng Bootstrap Getting Started](https://ng-bootstrap.github.io/#/getting-started)
 - [ng Bootstrap Components](https://ng-bootstrap.github.io/#/components/accordion/examples)
+
+## Dependencies
+Run `npm install -g @angular/cli`
+Run `npm install --save @ng-bootstrap/ng-bootstrap` to be able to use bootstrap components
+Run `npm install bootstrap` because ng-bootstrap depends on bootstrap
 
 ## Development server
 
