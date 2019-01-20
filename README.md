@@ -11,7 +11,7 @@ Website front end for research projects. This will display data recieved via htt
 - 
 
 # Journal: 
-- 2019.01.20 Created Angular Project using `ng new` and added `ng bootstrap` module.
+- 2019.01.20 Created Angular Project using `ng new`, added `ng bootstrap` module, and bootstrap dependency 
 -  
 
 # References: 
