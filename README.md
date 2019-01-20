@@ -6,7 +6,7 @@ This project is being edited using [Visual Stuid Code](https://code.visualstudio
 
 # Notes: 
 - This is an [Angular Website](https://angular.io/)
-- This project uses [bootstrap](https://ng-bootstrap.github.io/#/home)
+- This project uses [Bootstrap](https://ng-bootstrap.github.io/#/home)
 
 # Journal: 
 - 2019.01.20 Created Angular Project using `ng new` and added `ng bootstrap` module.
@@ -15,7 +15,8 @@ This project is being edited using [Visual Stuid Code](https://code.visualstudio
 # References: 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 - [Using Bootstrap with Angular Medium Blog](https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a) Scroll down to the section about using "Using Ng-Bootstrap"
-- [Installing ng bootstrap](https://ng-bootstrap.github.io/#/getting-started)
+- [ng Bootstrap Getting Started](https://ng-bootstrap.github.io/#/getting-started)
+- [ng Bootstrap Components](https://ng-bootstrap.github.io/#/components/accordion/examples)
 
 ## Development server
 
