@@ -2,15 +2,17 @@
 Website front end for research projects. This will display data recieved via http requests. 
 
 # Environment 
-This project is being edited using [Visual Stuid Code](https://code.visualstudio.com/) and [Angular CLI](https://cli.angular.io/) (Command Line Interface).
+- This project is being edited using [Visual Stuid Code](https://code.visualstudio.com/), [GitBash Terminal](https://git-scm.com/downloads), [Angular CLI](https://cli.angular.io/) (Command Line Interface), and [ng Bootstrap](https://ng-bootstrap.github.io/#/home).
+- To run the project you have to install ng Bootstrap.
 
 # Notes: 
 - This is an [Angular Website](https://angular.io/)
-- This project uses [Bootstrap](https://ng-bootstrap.github.io/#/home)
+- This project uses [Bootstrap](https://getbootstrap.com/) via [ng Bootstrap](https://ng-bootstrap.github.io/#/home). I decided to implement bootstrap using ng bootstrap because it's a more streamline process than adding bootstrap without ng bootstrap. "Ng-Bootstrap contains a set of native Angular directives based on Bootstrap's markup and CSS. As a result no dependency on jQuery or Bootstrap's JavaScript is required."
+- 
 
 # Journal: 
 - 2019.01.20 Created Angular Project using `ng new` and added `ng bootstrap` module.
--  
+- 
 
 # References: 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
