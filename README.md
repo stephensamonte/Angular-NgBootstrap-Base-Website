@@ -1,6 +1,21 @@
 # AngularVTResearchWebsite
+Website front end for research projects. This will display data recieved via http requests. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+# Environment 
+This project is being edited using [Visual Stuid Code](https://code.visualstudio.com/) and [Angular CLI](https://cli.angular.io/) (Command Line Interface).
+
+# Notes: 
+- This is an [Angular Website](https://angular.io/)
+- This project uses [bootstrap](https://ng-bootstrap.github.io/#/home)
+
+# Journal: 
+- 2019.01.20 Created Angular Project using `ng new` and added `ng bootstrap` module.
+-  
+
+# References: 
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+- [Using Bootstrap with Angular Medium Blog](https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a) Scroll down to the section about using "Using Ng-Bootstrap"
+- [Installing ng bootstrap](https://ng-bootstrap.github.io/#/getting-started)
 
 ## Development server
 
