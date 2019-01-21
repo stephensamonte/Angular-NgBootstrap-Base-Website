@@ -23,7 +23,6 @@ Website front end for research projects. This will display data recieved via htt
 ## Dependencies
 Run `npm install -g @angular/cli`
 Run `npm install --save @ng-bootstrap/ng-bootstrap` to be able to use bootstrap components
-Run `npm install bootstrap` because ng-bootstrap depends on bootstrap
 
 ## Development server
 
