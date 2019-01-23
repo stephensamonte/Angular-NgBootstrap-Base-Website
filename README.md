@@ -1,5 +1,7 @@
 # Angular-NgBootstrap-Template-Website
-Website front end for research projects. This will display data recieved via http requests. 
+Website template that uses ng Bootstra. 
+
+In the future will have it's own fake data and mock server which can later be swapped out for real http requests. 
 
 # Environment 
 - This project is being edited using [Visual Stuid Code](https://code.visualstudio.com/), [GitBash Terminal](https://git-scm.com/downloads), [Angular CLI](https://cli.angular.io/) (Command Line Interface), and [ng Bootstrap](https://ng-bootstrap.github.io/#/home).
