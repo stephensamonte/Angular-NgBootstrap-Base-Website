@@ -1,4 +1,4 @@
-# AngularVTResearchWebsite
+# Angular-NgBootstrap-Template-Website
 Website front end for research projects. This will display data recieved via http requests. 
 
 # Environment 
