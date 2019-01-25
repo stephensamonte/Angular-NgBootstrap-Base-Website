@@ -1,4 +1,4 @@
-# Angular-NgBootstrap-Template-Website
+# Angular-NgBootstrap-Base-Website
 Website template that uses ng Bootstrap. 
 
 In the future will have it's own fake data and mock server which can later be swapped out for real http requests. 
