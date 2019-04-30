@@ -1,6 +1,8 @@
 # Angular-NgBootstrap-Base-Website
 Website template that uses ng Bootstrap. 
 
+Note: This project is no longer being worked on. I also no longer use ng-bootstrap for my projects. I recommend using [Angular Material](https://material.angular.io/)
+
 In the future will have it's own fake data and mock server which can later be swapped out for real http requests. 
 
 Deployed Project Website: https://stephensamonte.github.io/Angular-NgBootstrap-Base-Website/
